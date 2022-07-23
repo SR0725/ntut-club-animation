@@ -22,12 +22,12 @@ import templateHey from './components/hey/index.vue'
 import templateCat from './components/cat/index.vue'
 import templateWelcome from './components/welcome/index.vue'
 import templateClub from './components/club/index.vue'  //
-import templateProve from './components/prove/index.vue'  //我們致力於推廣資訊教育
-import templateGreat from './components/great/index.vue'  //讓程式的美好k
-import templateStudent from './components/student/index.vue'  //普遍於台北科大的學生中K
-import templateEazy from './components/eazy/index.vue'   //我們將用最簡單的方式K
-import templateCode from './components/code/index.vue'   //教你利用不同的程式語言K
-import templateGame from './components/game/index.vue'  //做出不同工具及遊戲K
+import templateProve from './components/prove/index.vue'  //找飯店？Trivago！找程式？ＮＰＣ！
+import templateGreat from './components/great/index.vue'  //奉獻你的肝臟吧！
+import templateStudent from './components/student/index.vue'  //和其他科系的新朋友一起do Project
+import templateEazy from './components/eazy/index.vue'   //我們將用最簡單的方式
+import templateCode from './components/code/index.vue'   //教你利用不同的程式語言
+import templateGame from './components/game/index.vue'  //做出不同工具及遊戲
 
 import textBackground from './components/textBackground.vue'
 

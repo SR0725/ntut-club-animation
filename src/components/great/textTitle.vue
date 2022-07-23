@@ -12,7 +12,7 @@
       return {
         turnX: 120,
         turnOpacity: 0,
-        mainString: "讓程式的美好",
+        mainString: "奉獻你的肝臟吧！",
         stringAnimLen: window.innerHeight * 2,
         maxScroll: window.innerHeight * 55,
         minScroll: window.innerHeight * 43,
